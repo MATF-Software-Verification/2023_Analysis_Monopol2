@@ -1,0 +1,3 @@
+[submodule "RS019-monopol"]
+	path = RS019-monopol
+	url = https://github.com/MATF-RS19/RS019-monopol
