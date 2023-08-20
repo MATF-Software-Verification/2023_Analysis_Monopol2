@@ -17,7 +17,6 @@ SOURCES +=  tst_monopolfunctionalities.cpp \
     ../../RS019-monopol/src/Railroad.cpp \
     ../../RS019-monopol/src/Space.cpp \
     ../../RS019-monopol/src/Utility.cpp \
-    utilityFunctionsTesting.cpp
 
 HEADERS += \
     ../../RS019-monopol/src/ActionSpace.hpp \
@@ -30,4 +29,3 @@ HEADERS += \
     ../../RS019-monopol/src/Railroad.hpp \
     ../../RS019-monopol/src/Space.hpp \
     ../../RS019-monopol/src/Utility.hpp \
-    utilityFunctionsForTesting.h
