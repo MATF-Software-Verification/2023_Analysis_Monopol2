@@ -14,6 +14,7 @@ Analiza projekta u okviru kursa Verifikacija softvera
 
 Cilj analize ovog projekta je bio pronalazak eventualnih bagova, uskih grla programa i delova izvornog koda koji bi mogli da se isprave.
 Izveštaji upotrebe svakog alata se nalaze u direktorijumu sa odgovrajućim imenom, a jedinični testovi se nalaze unutar `UnitTestsForMonopol` test-projekta unutar direktorijuma sa istim imenom.
+
 Detaljan opis analize se može pronaći u datoteci `ProjectAnalysisReport.pdf`, a sve slike i snimke ekrana je moguće naći u okviru  `Images` direktorijuma. 
 
 ### Spisak pronađenih bagova i uskih grla
