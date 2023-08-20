@@ -24,6 +24,9 @@ Detaljan opis analize se može pronaći u datoteci `ProjectAnalysisReport.pdf`, 
 
 Osim navedenih nedostataka, program se ispravno ponaša i u skladu sa specifikacijom.
 
+<div style = "text-align: center">
+<img src = "https://github.com/MATF-Software-Verification/2023_Analysis_Monopol2/blob/main/Images/monopol_board.jpg" style = "width: 400px;" /></div>
+
 
 
 
