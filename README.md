@@ -13,6 +13,8 @@ Analiza projekta u okviru kursa Verifikacija softvera
 * <a href = "https://github.com/MATF-RS19/RS019-monopol/tree/15a010f4e6e3571ed55d7ddf18a0ed1c5005d2f0"> Link ka grani projekta koji se analizira </a>
 
 Cilj analize ovog projekta je bio pronalazak eventualnih bagova, uskih grla programa i delova izvornog koda koji bi mogli da se isprave.
+Izveštaji upotrebe svakog alata se nalaze u direktorijumu sa odgovrajućim imenom, a jedinični testovi se nalaze unutar `UnitTestsForMonopol` test-projekta unutar direktorijuma sa istim imenom.
+Detaljan opis analize se može pronaći u datoteci `ProjectAnalysisReport.pdf`, a sve slike i snimke ekrana je moguće naći u okviru  `Images` direktorijuma. 
 
 ### Spisak pronađenih bagova i uskih grla
 
