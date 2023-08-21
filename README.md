@@ -21,9 +21,9 @@ Detaljan opis analize se može pronaći u datoteci `ProjectAnalysisReport.pdf`, 
 
 * **QTTest** za jedinično testiranje funkcija u projektu
 * **Valgrind** alati za profajliranje
-   - *Memcheck*
-   - *Massif*
-   - *Callgrind*
+   - Memcheck
+   - Massif
+   - Callgrind
 * **Clang-Tidy** analizator za statičku analizu izvornog koda
 
 ### Spisak pronađenih bagova i uskih grla
