@@ -26,7 +26,7 @@ Skriptu svakako pokrećete sa bar jednom od opcija kojom naznačavate da li posl
 * `-c` - ne pokrećete *Kcachegrind*, ali je izveštaj svakako sačuvan u datoteci i možete naknadno posle da ga prikažete u ovom ili nekom drugom alatu
 
 ```
-./run_callgrind -c
+./run_callgrind.sh -c
 ```
 
 Pored obavezne opcije, možete zadati i još jedan argumenat koji predstavlja ime datoteke u koju želite da bude upisan izveštaj.
