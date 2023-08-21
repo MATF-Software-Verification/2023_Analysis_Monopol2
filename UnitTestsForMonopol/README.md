@@ -14,12 +14,12 @@ Skripta kojom se mogu pokrenuti testovi iz terminala je `run_tests.sh` .
 Skriptu možete pokrenuti sa argumentom kojim zadajete ime datoteke u kojoj želite da se sačuvaju rezultati izvršavanja testova.
 
 ```
-  ./run_tests.sh results.txt
+./run_tests.sh results.txt
 ```
 
 Možete je pokrenuti i bez argumenata, tada datoteka sa rezultatima dobija podrazumevano ime `test_results.txt`.
 
 ```
-  ./run_tests.sh
+./run_tests.sh
 ```
 
