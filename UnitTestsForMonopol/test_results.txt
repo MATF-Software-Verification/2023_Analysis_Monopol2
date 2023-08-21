@@ -1,0 +1,19 @@
+********* Start testing of monopolFunctionalities *********
+Config: Using QtTest library 5.9.7, Qt 5.9.7 (x86_64-little_endian-lp64 shared (dynamic) release build; by Clang 4.0.1 (tags/RELEASE_401/final))
+PASS   : monopolFunctionalities::initTestCase()
+PASS   : monopolFunctionalities::playersBalanceAfterBuyCase()
+PASS   : monopolFunctionalities::incrementedPlayersBalanceAfterGive()
+PASS   : monopolFunctionalities::decrementedPlayersBalanceAfterTake()
+PASS   : monopolFunctionalities::bankNotTakesIsufficientOnAccount()
+PASS   : monopolFunctionalities::numberOfHousesIsReallySet()
+PASS   : monopolFunctionalities::numberOfHotelsIsReallySet()
+PASS   : monopolFunctionalities::addPlayerToUtility()
+PASS   : monopolFunctionalities::erasedPlayerFromUtility()
+PASS   : monopolFunctionalities::numberOfPropertiesIncreasedAfterBuy()
+PASS   : monopolFunctionalities::numberOfUtilitiesIncreasedAfterBuy()
+PASS   : monopolFunctionalities::numberOfRailroadsIncreasedAfterBuy()
+PASS   : monopolFunctionalities::propertyOwnedByPlayerAfterAddition()
+PASS   : monopolFunctionalities::throwDiceIsCorrect()
+PASS   : monopolFunctionalities::cleanupTestCase()
+Totals: 15 passed, 0 failed, 0 skipped, 0 blacklisted, 1ms
+********* Finished testing of monopolFunctionalities *********
