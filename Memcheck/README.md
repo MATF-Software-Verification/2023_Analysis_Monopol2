@@ -26,8 +26,8 @@ Skriptu možete pokrenuti bez ijednog argumenta.
 ```
 
 Možete zadati i još jedan argumenat koji predstavlja ime datoteke u koju želite da bude upisan izveštaj.
-Ako ga ne navedete, izveštaj će podrazumevano biti upisan u datoteci `memcheck_output.txt` .
+Ako ga ne navedete, izveštaj će podrazumevano biti upisan u datoteci `memcheck-output.txt` .
 
 ```
-./run_memcheck.sh other_name.txt
+./run_memcheck.sh other-name.txt
 ```
