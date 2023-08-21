@@ -10,5 +10,4 @@ chmod +x UnitTestsForMonopol
 
 ./UnitTestsForMonopol > "$name"
 
-echo -e "\e[1;32m Tests executed and results of tests are written in file 
-with name $name \e[0m" 
+echo -e "\e[1;32m ===== Tests executed and results of tests are written in file with name $name ===== \n \e[0m" 
