@@ -1,6 +1,6 @@
 ### Memcheck profajler
 
-U ovom direktorijumu se nalazi skripta za izvršavanje *Memchek* profajlera.
+U ovom direktorijumu se nalazi skripta za izvršavanje *Memcheck* profajlera.
 
 Skripta kojom se pokreće *Memcheck* je `run_memcheck.sh` . 
 
