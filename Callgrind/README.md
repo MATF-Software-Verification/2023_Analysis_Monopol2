@@ -30,7 +30,7 @@ Skriptu svakako pokrećete sa bar jednom od opcija kojom naznačavate da li posl
 ```
 
 Pored obavezne opcije, možete zadati i još jedan argumenat koji predstavlja ime datoteke u koju želite da bude upisan izveštaj.
-Ako ga ne navedete, izveštaj će podrazumevano biti upisan u datoteci `callgrind_output.txt` .
+Ako ga ne navedete, izveštaj će podrazumevano biti upisan u datoteci `callgrind-output.txt` .
 
 ```
 ./run_callgrind.sh -k other_name.txt
