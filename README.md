@@ -17,6 +17,15 @@ Izveštaji upotrebe svakog alata se nalaze u direktorijumu sa odgovrajućim imen
 
 Detaljan opis analize se može pronaći u datoteci `ProjectAnalysisReport.pdf`, a sve slike i snimke ekrana je moguće naći u okviru  `Images` direktorijuma. 
 
+### Spisak alata koji su korišćeni u analizi projekta
+
+* QTTest -- za jedinično testiranje funkcija u projektu
+* Valgrind alati za profajliranje
+   - Memcheck
+   - Massif
+   - Callgrind
+* Clang-Tidy analizator za statičku analizu izvornog koda
+
 ### Spisak pronađenih bagova i uskih grla
 
 * detektovano je curenje memorije
