@@ -20,7 +20,7 @@ Skripta kojom se pokreće *Memcheck* je `run_memcheck.sh` .
 
 #### Upotreba
 
-Skriptu možete pokrenuti bez ijedne opcije.
+Skriptu možete pokrenuti bez ijednog argumenta.
 ```
 ./run_memcheck.sh
 ```
