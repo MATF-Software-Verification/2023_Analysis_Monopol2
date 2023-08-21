@@ -13,7 +13,7 @@ Analiza projekta u okviru kursa Verifikacija softvera
 * <a href = "https://github.com/MATF-RS19/RS019-monopol/tree/15a010f4e6e3571ed55d7ddf18a0ed1c5005d2f0"> Link ka grani projekta koji se analizira </a>
 
 Cilj analize ovog projekta je bio pronalazak eventualnih bagova, uskih grla programa i delova izvornog koda koji bi mogli da se poboljšaju.
-Izveštaji upotrebe svakog alata, kao i skripte kojim se mogu ti alati ponovo pokrenuti zajedno sa `README` fajlovima se nalaze u direktorijumima sa odgovarajućim imenima, a jedinični testovi zajedno sa skriptom za njihovo pokretanje i `README` fajlom se nalaze unutar `UnitTestsForMonopol` test-projekta unutar direktorijuma sa istim imenom.
+Izveštaji upotrebe svakog alata, kao i skripte za *Valgrind* alate (*Memcheck*, *Massif* i *Callgrind*) kojim se mogu ti alati ponovo pokrenuti zajedno sa `README` fajlovima se nalaze u direktorijumima sa odgovarajućim imenima, a jedinični testovi zajedno sa skriptom za njihovo pokretanje i `README` fajlom se nalaze unutar `UnitTestsForMonopol` test-projekta unutar direktorijuma sa istim imenom.
 
 Detaljan opis analize se može pronaći u datoteci `ProjectAnalysisReport.pdf`, a sve slike i snimke ekrana je moguće naći u okviru  `Images` direktorijuma. 
 
