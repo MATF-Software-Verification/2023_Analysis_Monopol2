@@ -19,7 +19,7 @@ Detaljan opis analize se može pronaći u datoteci `ProjectAnalysisReport.pdf`, 
 
 ### Spisak alata koji su korišćeni u analizi projekta
 
-* QTTest -- za jedinično testiranje funkcija u projektu
+* QTTest za jedinično testiranje funkcija u projektu
 * Valgrind alati za profajliranje
    - Memcheck
    - Massif
